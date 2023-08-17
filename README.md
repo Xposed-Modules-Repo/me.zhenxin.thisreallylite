@@ -1,6 +1,6 @@
 <div align="center">
 
-![][banner]
+#后续不再维护，转移到 https://github.com/wangyuan0217/MyXposed
 
 </div>
 
